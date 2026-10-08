@@ -1,0 +1,11 @@
+{
+  "death_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "hardcore_peru:death_sound",
+        "stream": false
+      }
+    ]
+  }
+}
